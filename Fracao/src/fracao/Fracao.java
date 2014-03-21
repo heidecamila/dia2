@@ -7,6 +7,7 @@ public class Bicycle {
     public int speed;
     private int teste;
     public int teste2;
+    public int testeedita;
         
     // the Bicycle class has
     // one constructor
