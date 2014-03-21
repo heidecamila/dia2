@@ -5,6 +5,8 @@ public class Bicycle {
     public int cadence;
     public int gear;
     public int speed;
+    private int teste;
+    public int teste2;
         
     // the Bicycle class has
     // one constructor
